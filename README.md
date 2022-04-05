@@ -10,4 +10,3 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, 
   <br />
 </div>
 
-🗒 My Study Note - https://seanprehensible.oopy.io/
